@@ -1,0 +1,1 @@
+tratar manualmente qualquer situação que nao tenha sido tratada automaticamente ainda
